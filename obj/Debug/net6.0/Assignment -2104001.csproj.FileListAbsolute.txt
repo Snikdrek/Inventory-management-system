@@ -1,0 +1,15 @@
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.csproj.AssemblyReference.cache
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.AssemblyInfoInputs.cache
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.AssemblyInfo.cs
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.csproj.CoreCompileInputs.cache
+E:\c#OOP\Assignment -2104001\bin\Debug\net6.0\Assignment -2104001.exe
+E:\c#OOP\Assignment -2104001\bin\Debug\net6.0\Assignment -2104001.deps.json
+E:\c#OOP\Assignment -2104001\bin\Debug\net6.0\Assignment -2104001.runtimeconfig.json
+E:\c#OOP\Assignment -2104001\bin\Debug\net6.0\Assignment -2104001.dll
+E:\c#OOP\Assignment -2104001\bin\Debug\net6.0\Assignment -2104001.pdb
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.dll
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\refint\Assignment -2104001.dll
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.pdb
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\Assignment -2104001.genruntimeconfig.cache
+E:\c#OOP\Assignment -2104001\obj\Debug\net6.0\ref\Assignment -2104001.dll
